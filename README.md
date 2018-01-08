@@ -1,2 +1,2 @@
-# cylindrical-tokamak
-Jupyter notebook with calculations of cylindrical tokamak
+# circular-tokamak
+Jupyter notebook with calculations of circular tokamak
